@@ -4,7 +4,7 @@
 
 #content for nav.html
 title: Suwhan's express publish
-subtitle: Writing contexts
+subtitle: Focus on the writing, the content.
 
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
@@ -41,17 +41,17 @@ copyright_name: Mathson Design, LLC
 
 # SEO data (https://github.com/jekyll/jekyll-seo-tag)
 logo: /assets/img/simpol-favicon.png
-description: publishing
+description: Simpol Theme is a clean, minimal website theme all about the writing, the content. Currently available for Jekyll. Perfect for blogging.
 author:
-  name: Suwhan Baek.
-  email: zhsjzhsj@gmail.cmo
+  name: Simpol Theme
+  email: simpol@scottmathson.com
   twitter: simpoltheme
 
 social:
-  name: lukious
+  name: Simpol Theme
   links:
-    - https://twitter.com/notwitter
-    - https://github.com/lukous
+    - https://twitter.com/simpoltheme
+    - https://github.com/simpol-theme
 
 # Build settings
 permalink: pretty
